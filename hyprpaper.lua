@@ -1,0 +1,17 @@
+return {
+    wallpaper = {
+        {
+            monitor = "DP-2",
+            path = "/home/sumit/Downloads/rick.png",
+            fit_mode = "cover",
+        },
+        {
+            monitor = "",
+            path = "/home/sumit/Downloads/rick.png",
+            fit_mode = "cover",
+        },
+    },
+
+    splash = false,
+    ipc = true,
+}
